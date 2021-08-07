@@ -20,8 +20,8 @@
 
 title: Script Google Connector
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/ScriptConnector" # the subpath of your site, e.g. /blog
-url: "https://github.com/nvhung150196" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/whiteboxapi" # the subpath of your site, e.g. /blog
+url: "https://github.com/LongNguyen1012" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
